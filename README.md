@@ -4,6 +4,8 @@ A Model Context Protocol (MCP) server that helps read GitHub repository structur
 
 Inspired by [gitingest](https://gitingest.com/).
 
+<a href="https://glama.ai/mcp/servers/un2zatig9e"><img width="380" height="200" src="https://glama.ai/mcp/servers/un2zatig9e/badge" /></a>
+
 ## Configuration
 
 ```json
